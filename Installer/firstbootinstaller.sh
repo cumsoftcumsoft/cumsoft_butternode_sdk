@@ -1,3 +1,7 @@
+!/bin/bash    ; bash
+!/bin/sh    ; sh
+!/usr/bin/env <interpreter>    ; perl,python,etc
+!/usr/bin/pwsh    ; powershell
 #!/bin/bash
 #
 #                    _________________________________________________

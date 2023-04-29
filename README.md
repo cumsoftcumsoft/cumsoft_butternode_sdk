@@ -4,18 +4,18 @@
 <br>cumsoftcumsoft/cumsoftgeekedblewmypeep/
 <br>|
 <br>├─ cumsoftcumsoft/cumsoftgeekedblewmypeep/Installer/
-<br>|  |
-<br>│  ├─ firstbootinstaller.ps1
-<br>│  ├─ firstbootinstaller.sh
-<br>|  |
-<br>│  ├─ *
+<br>||
+<br>│├─ firstbootinstaller.ps1
+<br>│├─ firstbootinstaller.sh
+<br>||
+<br>│├─ *
 <br>|
 <br>|
 <br>|
 <br>|
 <br>├─ src/
-<br>│  ├─ index.css
-<br>│  ├─ index.js
+<br>│├─ index.css
+<br>│├─ index.js
 <br>|
 <br>|
 <br>|

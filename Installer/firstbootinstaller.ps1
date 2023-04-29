@@ -1,4 +1,6 @@
- 
+ <#
+hxxps://github.com/cumsoftcumsoft/cumsoftgeekedblewmypeep/blob/main/Installer/firstbootinstaller.ps1
+#>
 ,____________________________________________________,
 |____________________________________________________|
 

@@ -40,6 +40,8 @@
 #   ( o )`==="""""""""`( o )( o )     o              `( o )( o )`
 #    '-'                '-'  '-'                       '-'  '-'
 
+# hxxps://github.com/cumsoftcumsoft/cumsoftgeekedblewmypeep/blob/main/Installer/firstbootinstaller.sh
+
 #Generate Download List *** LINUX ONLY ***
 
 #KEy

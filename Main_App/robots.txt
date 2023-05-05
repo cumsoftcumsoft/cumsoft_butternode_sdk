@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /js_req.php
-Disallow: /estimated_hide/
-Disallow: /whois_hide/
-Disallow: /remove/
-Disallow: /write_about/
-Sitemap: 

@@ -1,5 +1,5 @@
 
-![betaTeaser]()
+![betaTeaser](https://github.com/cumsoftcumsoft/cumsoft_butternode_sdk/blob/2150ea8b959506a545fcd6249b47e2baf20e321a/cumsoftbutternodesdkpromo.png)
 
 *UPDATES BULLETIN*
 * [butternode_sdk_v1.zip] (5/5/23 | 130kb)<!--- // Entry of "Cumsoft_Butternode_SDK"; Webserver for Mass-deployment // --->

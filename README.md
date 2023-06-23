@@ -8,7 +8,7 @@
 * *Cumsoft_Butternode_SDK* is Foss, *Cumsoft_Butternode_SDK* is a volatile project meaning; its a rolling project and is subject to changes/updates/deletion. *Cumsoft_Butternode_SDK* Project page is found here on Github; thus is subject to deletion. It is strongly recommened that each iteration of development be archived. 
 
 ### *RULES* 
-* Best practice is to Download the most recent package found Here: hxxps://github.com/cumsoftcumsoft/cumsoft_butternode_sdk. Once Edits are made please push the project back under a sub branch of "main"; *DO NOT PUSH UPDATED PACKAGES TO MAIN*
+* Best practice is to Download the most recent package found Here: hxxps://github.com/cumsoftcumsoft/cumsoft_butternode_sdk. Once Edits are made please push the project to a sub branch of "main" called "switch"; *DO NOT PUSH UPDATED PACKAGES TO MAIN*
 * If you have any issues please open a discussion thread and write a detailed outline of the issue/bug. Thank you!
 * When making alterations to *Cumsoft_Butternode_SDK* Please document all changes to the original package in the README.txt.
 * *HAVE FUN* This project was established to give the community something to develop. Anyone has the freedom to download this package and make alterations. 

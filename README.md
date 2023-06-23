@@ -9,7 +9,7 @@
 
 ### *RULES* 
 * Best practice is to Download the most recent package found Here: hxxps://github.com/cumsoftcumsoft/cumsoft_butternode_sdk. Once edits are made please push the project to a sub branch of "main" called "switch" *DO NOT PUSH UPDATED PACKAGES TO MAIN*
-* Also when pushing your alterations back to the "switch" branch please us naming convetions that align. Examples: 
+* Also when pushing your alterations back to the "switch" branch please us naming convetions that align. Examples: butternode_sdk_v4.zip or smaller changes can be named butternode_sdk_v4.1.1-butternode_sdk_v4.100.100.zip.
 
 * If you have any issues please open a discussion thread and write a detailed outline of the issue/bug. Thank you!
 * When making alterations to *Cumsoft_Butternode_SDK* Please document all changes to the original package in the README.txt.

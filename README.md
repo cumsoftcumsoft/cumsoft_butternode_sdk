@@ -1,5 +1,6 @@
 <img src="https://github.com/cumsoftcumsoft/cumsoft_butternode_sdk/blob/4c397aa66a966a3aa952e7728e9cacacf2a6c41f/cumsoftbutternodesdkpromo.png" style="width:840px; height:490px;">
-
+### *STABLE RELEASE*
+https://github.com/cumsoftcumsoft/cumsoft_butternode_sdk/blob/main/butternode_sdk_v6.zip
 ### *About*
 * *Cumsoft_Butternode_SDK* (Working Title) is a CLT made for the purpose of remote tool access. User case would be like walking into your local library or perhaps best buy; where a terminal is present for the public. Is this terminal connected to other devices? Using the *Cumsoft_Butternode_SDK* you can find out. It is not limited to wild terminals but can be used for athome systems aswell.
 

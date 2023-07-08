@@ -22,7 +22,7 @@ https://github.com/cumsoftcumsoft/cumsoft_butternode_sdk/blob/main/butternode_sd
 * [butternode_sdk_v4.zip] (6/16/23 | 2.39 MB)<!--- // Multiwindow Main Menu, README.md Updated, Expansion 4 Linux Bash MEnu & Python3 Menu // --->
 * [butternode_sdk_v5.zip] (6/17/23 | 2.39 MB)<!--- // BreakThrough Bash Terminal Menu w Python Gui Expansion and code exacution. Mark version 5 as Keystone Progress // --->
 * [butternode_sdk_v6.zip] (6/25/23 | 2.4 MB)<!--- // Networking improvements, public collaboration release. // --->
-
+* [butternode_sdk_v7.zip] (07/07/23 | 2.9 MB)<!--- // Windows Expansion i.e. CMD & PS1, Gui Framework in-place. Next Version folder struct revision  // --->
 
 
  

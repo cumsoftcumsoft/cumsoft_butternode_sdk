@@ -25,10 +25,10 @@ https://github.com/cumsoftcumsoft/cumsoft_butternode_sdk/blob/main/butternode_sd
 * [butternode_sdk_v6.zip] (6/25/23 | 2.4 MB)<!--- // Networking improvements, public collaboration release. // --->
 * [butternode_sdk_v7.zip] (07/07/23 | 2.9 MB)<!--- // Windows Expansion. // --->
 
+* Currently being Developed *
+* [butternode_sdk_v8.zip] (00/00/00 | 0 MB)<!--- // Windows Expansion continued, Implimented Nim script for branching // --->
 
 
- 
-
 
 * [] ()<!--- //  // --->
 * [] ()<!--- //  // --->
@@ -36,5 +36,15 @@ https://github.com/cumsoftcumsoft/cumsoft_butternode_sdk/blob/main/butternode_sd
 * [] ()<!--- //  // --->
 * [] ()<!--- //  // --->
 * [] ()<!--- //  // --->
-* 
-2.39 MB
+* [] ()<!--- //  // --->
+* [] ()<!--- //  // --->
+* [] ()<!--- //  // --->
+* [] ()<!--- //  // --->
+* [] ()<!--- //  // --->
+* [] ()<!--- //  // --->
+* [] ()<!--- //  // --->
+* [] ()<!--- //  // --->
+* [] ()<!--- //  // --->
+* [] ()<!--- //  // --->
+* [] ()<!--- //  // --->
+* [] ()<!--- //  // --->

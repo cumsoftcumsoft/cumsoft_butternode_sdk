@@ -1,4 +1,5 @@
 <img src="https://github.com/cumsoftcumsoft/cumsoft_butternode_sdk/blob/4c397aa66a966a3aa952e7728e9cacacf2a6c41f/cumsoftbutternodesdkpromo.png" style="width:840px; height:490px;">
+<img src="https://github.com/cumsoftcumsoft/cumsoft_butternode_sdk/blob/8853c8d37d7238c0991d86b3b4d2b5f99e6cb023/cumsoftbutternodesdkpromo.jpg" style="width:840px; height:490px;">
 
 ### *STABLE RELEASE*
 
